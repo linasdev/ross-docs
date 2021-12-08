@@ -7,6 +7,17 @@ This repository contains documentation for the `Rusty Old Smart System` project.
 - Utilizes the Controller Area Network (CAN) bus to communicate between devices. Ethernet and other interfaces are in the planning stages.
 - Programmable with an open-source language called [ross-dsl](https://github.com/linasdev/ross-dsl).
 
+# Projects
+- [CLI Configurator program](https://github.com/linasdev/ross-configurator)
+- [Domain specific language](https://github.com/linasdev/ross-dsl)
+- [Bootloader](https://github.com/linasdev/ross-bootloader)
+- [Firmware](https://github.com/linasdev/ross-firmware)
+- [Config](https://github.com/linasdev/ross-config)
+- [Protocol](https://github.com/linasdev/ross-protocol)
+- [EEPROM library](https://github.com/linasdev/ross-eeprom)
+- [Logger](https://github.com/linasdev/ross-logger)
+- [Hardware](https://github.com/linasdev/ross-hardware)
+
 # Getting Started
 Have a look at the documentation:
 - Data handling:
