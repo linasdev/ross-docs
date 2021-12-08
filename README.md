@@ -10,7 +10,10 @@ This repository contains documentation for the `Rusty Old Smart System` project.
 # Getting Started
 Have a look at the documentation:
 - Data handling:
-    - [Interfaces](data_handling/INTERFACES.md)
+    - Interfaces:
+        - [CAN](interfaces/CAN.md)
+        - [USART](interfaces/USART.md) (programmer side)
+        - [Serial](interfaces/SERIAL.md) (computer side)
     - [Packets](data_handling/PACKETS.md)
     - [Events](data_handling/EVENTS.md)
     - [State](data_handling/STATE.md)
