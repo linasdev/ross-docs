@@ -14,7 +14,7 @@ set button_pressed to true on BUTTON_PRESSED_EVENT_CODE from device_address if m
     ValueEqualToConstFilter(button_index);
 }
 
-set button_pressed to false on BUTTON_PRESSED_EVENT_CODE from device_address if match {
+set button_pressed to false on BUTTON_RELEASED_EVENT_CODE from device_address if match {
     ButtonIndexExtractor();
     ValueEqualToConstFilter(button_index);
 }
