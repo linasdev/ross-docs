@@ -45,6 +45,8 @@ Have a look at the documentation:
         - [match](language/statements/MATCH.md)
         - [fire](language/statements/FIRE.md)
         - [do](language/statements/DO.md)
+    - Examples:
+        - [Dimming](language/examples/DIMMING.md)
     - [Literals](language/LITERALS.md)
 - [Hardware](HARDWARE.md)
 
