@@ -2,7 +2,7 @@
 A `let` statement in `ross-dsl` declares a [state](../../data_handling/STATE.md) variable. It can be modified by state modifying filters and can be used for both matching and event production.
 
 ## Example
-Here we a state variable and set it equal to false. We later change this variable on button pressed and button released events. This maintains the current state of a button input:
+Here we declare a state variable and set it equal to false. We later change this variable on button pressed and button released events. This maintains the current state of a button input:
 ```
 let button_pressed = false;
 
