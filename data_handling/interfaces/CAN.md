@@ -22,4 +22,4 @@ All `ross` devices (except the programmer and dev-board, which have a usb port) 
 | 8 - 11  | LAST_FRAME_ID / FRAME_ID | Either the id of the last frame in the packet or the current id (most significant nibble) |
 | 12 - 27 | DEVICE_ADDRESS           | Receiving device's address                                                                |
 
-Note that the frames with the lowest identifiers have higher priority and such will be transmitted first. This includes error messages, continuatons and single packet frames.
+Note that the frames with the lowest identifiers have higher priority and such will be transmitted first. This includes error messages, continuations and single packet frames.
